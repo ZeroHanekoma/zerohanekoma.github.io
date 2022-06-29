@@ -6,7 +6,7 @@
 </p>
 <p>
 
-Forking a startpage for personal use, to host on Git-Hub.  I miss when NewTab Startpage worked in Firefox without all these workarounds.
+my personal startpage, ripped and frankensteined together from a variety of <a href="https://startpages.github.io">startpages</a>.
 
 
 </p>
