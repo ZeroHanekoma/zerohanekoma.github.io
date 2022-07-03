@@ -47,7 +47,7 @@ var svgTrash = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.org/
  *   - Accent color can be: black, white, blue, green, cyan, red, magenta, and yellow. by default, the accent color is white.
  *   - ALL categories need a header to start them. Headers are signified by the -HEAD- in the 3rd position.
  * Link Format: ["Name", "URL",""],
- *   - Name and URL are pretty self explanitory. 
+ *   - Name and URL are pretty self explanitory.
  *   - 3rd position may be used in the future, but right now it's not used and can be left blank.
  */
 var linkMenu = [
@@ -410,6 +410,118 @@ const generateQuote = function() {
         {
             "quote": "Any sufficiently advanced technology is indistinguishable from magic.",
             "author": "Arthur C. Clarke"
+        },
+        {
+            "quote": "I am the wisest man alive, for I know one thing, and that is that I know nothing.",
+            "author": "Socrates"
+        },
+        {
+            "quote": "To alcohol! The cause of, and solution to, all of life's problems.",
+            "author": "Homer J. Simpson"
+        },
+        {
+            "quote": "You're in pretty good shape for the shape you are in.",
+            "author": "Dr. Seuss"
+        },
+        {
+            "quote": "I like nonsense; it wakes up the brain cells.",
+            "author": "Dr. Seuss"
+        },
+        {
+            "quote": "From there to here, and here to there, funny things are everywhere.",
+            "author": "Dr. Seuss"
+        },
+        {
+            "quote": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
+            "author": "Dr. Seuss"
+        },
+        {
+            "quote": "Don't cry because it's over. Smile because it happened.",
+            "author": "Dr. Seuss"
+        },
+        {
+            "quote": "Everything is theoretically impossible, until it is done.",
+            "author": "Robert A. Heinlein"
+        },
+        {
+            "quote": "The scientists of today think deeply instead of clearly. One must be sane to think clearly, but one can think deeply and be quite insane.",
+            "author": "Nikola Tesla"
+        },
+        {
+            "quote": "Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do.",
+            "author": "Thomas Aquinas"
+        },
+        {
+            "quote": "Great things are done by a series of small things brought together.",
+            "author": "Vincent Van Gogh"
+        },
+        {
+            "quote": "It is difficult to free fools from the chains they revere.",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Judge a man by his questions rather than his answers.",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "It is better to risk saving a guilty man than to condemn an innocent one.",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Man is free at the moment he wishes to be.",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "If the freedom of speech is taken away then dumb and silent we may be led, like sheep to the slaughter.",
+            "author": "George Washington"
+        },
+        {
+            "quote": "Freedom is never voluntarily given by the oppressor; it must be demanded by the oppressed.",
+            "author": "Martin Luther King, Jr."
+        },
+        {
+            "quote": "A hero is someone who understands the responsibility that comes with his freedom.",
+            "author": "Bob Dylan"
+        },
+        {
+            "quote": "Think for yourself and question authority.",
+            "author": "Timothy Leary"
+        },
+        {
+            "quote": "We are dealing with the best-educated generation in history. But they've got a brain dressed up with nowhere to go.",
+            "author": "Timothy Leary"
+        },
+        {
+            "quote": "The role of anxiety in the development of human personality is central, and it is intricate beyond our understanding.",
+            "author": "Timothy Leary"
+        },
+        {
+            "quote": "If you don't like what you're doing, you can always pick up your needle and move to another groove.",
+            "author": "Timothy Leary"
+        },
+        {
+            "quote": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
+            "author": "Alan Watts"
+        },
+        {
+            "quote": "To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float.",
+            "author": "Alan Watts"
+        },
+        {
+            "quote": "Inside every cynical person, there is a disappointed idealist.",
+            "author": "George Carlin"
+        },
+        {
+            "quote": "Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?",
+            "author": "George Carlin"
+        },
+        {
+            "quote": "You're only given a little spark of madness. You mustn't lose it.",
+            "author": "Robin Williams"
+        },
+        {
+            "quote": "If there is a God, his plan is very similar to someone not having a plan.",
+            "author": "Eddie Izzard"
         },
 ];
 
