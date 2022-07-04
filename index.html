@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en-US">
     <head>
         <title>New Tab</title>
@@ -8,6 +9,7 @@
         <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Product+Sans" />
 		<link href="https://fonts.googleapis.com/css2?family=Alef&display=swap" rel="stylesheet"> 
         <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <script async type="text/javascript" src="js/quotes.js"></script>
         <script async type="text/javascript" src="js/script.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=.75" />
         <noscript>Javascript is requred for this page to display properly, silly.</noscript>
@@ -18,11 +20,11 @@
             <div class="container" id="mainContainer">
                 <div class="greeting" id="headContainer">
                     <label id="lblGreetings" />
-					<label id="lblSubGreet" />
                 </div>
+
                 <div class="container" id="bodyContainer">
-				
-                    <div class="container container-search" id="searchContainer">
+
+					<div class="container container-search" id="searchContainer">
                         <input
                             tabindex="1"
                             type="text"
@@ -32,7 +34,9 @@
                             onkeydown="javascript:handleQuery(event,this.value);"
                         />
                     </div>
-
+					<div class="container container-menu" id="menuContainer">
+                        <ul class="menu-category" id="categoryMenu"></ul>
+                    </div>
                     <div id="dateContainer" class="widget align-right"></div>
 					
                     <div id="quoteContainer" class="align-bottom">
@@ -42,11 +46,7 @@
                         <i>
                             <p id="author"></p>
                         </i>
-                    </div>
-					<div class="container container-menu" id="menuContainer">
-                        <ul class="menu-category" id="categoryMenu"></ul>
-                    </div>
-					
+                    </div>				
                 </div>
             </div>
         </div>
