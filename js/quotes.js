@@ -686,5 +686,377 @@ const quotes = [
             "quote": "Greatness and madness are next door neighbours; and they borrow each other's sugar. You don't get there without the other.",
             "author": "Joe Rogan"
         },
+		{
+            "quote": "It is sometimes an appropriate response to reality to go insane.",
+            "author": "Philip K. Dick"
+        },
+		{
+            "quote": "When you are crazy you learn to keep quiet.",
+            "author": "Philip K. Dick"
+        },
+		{
+            "quote": "There is no route out of the maze. The maze shifts as you move through it, because it is alive. ",
+            "author": "Philip K. Dick"
+        },
+		{
+            "quote": "Fear can make you do more wrong than hate or jealousy... fear makes you always, always hold something back.",
+            "author": "Philip K. Dick"
+        },
+		{
+            "quote": "In the center of an irrational universe governed by an irrational Mind stands rational man.",
+            "author": "Philip K. Dick"
+        },
+		{
+            "quote": "Being crazy and getting caught at it, out in the open, turns out to be a way to wind up in jail.",
+            "author": "Philip K. Dick"
+        },
+		{
+            "quote": "Everyone dwelt in it without realizing it. The Black Iron Prison was their world.",
+            "author": "Philip K. Dick"
+        },
+		{
+            "quote": "How can you look at the galaxy and not feel insignificant?",
+            "author": "Ridley Scott"
+        },
+		{
+            "quote": "Life isn't black and white. It's a million gray areas, don't you find?",
+            "author": "Ridley Scott"
+        },
+		{
+            "quote": "Never be put off by anything because failure teaches you something.",
+            "author": "Ridley Scott"
+        },
+		{
+            "quote": "Let your love be stronger than your hate or anger. Learn the wisdom of compromise, for it is better to bend a little than to break.",
+            "author": "H. G. Wells"
+        },
+		{
+            "quote": "What really matters is what you do with what you have.",
+            "author": "H. G. Wells"
+        },
+		{
+            "quote": "Losing your way on a journey is unfortunate. But, losing your reason for the journey is a fate more cruel.",
+            "author": "H. G. Wells"
+        },
+		{
+            "quote": "We must not allow the clock and the calendar to blind us to the fact that each moment of life is a miracle and mystery.",
+            "author": "H. G. Wells"
+        },
+		{
+            "quote": "It has been my philosophy of life that difficulties vanish when faced boldly.",
+            "author": "Isaac Asimov"
+        },
+		{
+            "quote": "Violence is the last refuge of the incompetent.",
+            "author": "Isaac Asimov"
+        },
+		{
+            "quote": "The easiest way to solve a problem is to deny it exists.",
+            "author": "Isaac Asimov"
+        },
+		{
+            "quote": "People who think they know everything are a great annoyance to those of us who do.",
+            "author": "Isaac Asimov"
+        },
+		{
+            "quote": "Science doesn't purvey absolute truth. Science is a mechanism... for testing your thoughts against the universe.",
+            "author": "Isaac Asimov"
+        },
+		{
+            "quote": "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.",
+            "author": "Isaac Asimov"
+        },
+		{
+            "quote": "When stupidity is considered patriotism, it is unsafe to be intelligent.",
+            "author": "Isaac Asimov"
+        },
+		{
+            "quote": "Insanity is relative. It depends on who has who locked in what cage.",
+            "author": "Ray Bradbury"
+        },
+		{
+            "quote": "Sometimes I think I understand everything. Then I regain consciousness",
+            "author": "Ray Bradbury"
+        },
+		{
+            "quote": "Anything you dream is fiction, and anything you accomplish is science, the whole history of mankind is nothing but science fiction.",
+            "author": "Ray Bradbury"
+        },
+		{
+            "quote": "The Universe has shouted itself alive. We are one of the shouts.",
+            "author": "Ray Bradbury"
+        },
+		{
+            "quote": "We need our Arts to teach us how to breathe",
+            "author": "Ray Bradbury"
+        },
+		{
+            "quote": "You can make yourself happy or miserable - it's the same amount of effort.",
+            "author": "Ray Bradbury"
+        },
+		{
+            "quote": "You don't have to burn books to destroy a culture. Just get people to stop reading them.",
+            "author": "Ray Bradbury"
+        },
+		{
+            "quote": "The general population doesn't know what's happening, and it doesn't even know that it doesn't know.",
+            "author": "Noam Chomsky"
+        },
+		{
+            "quote": "Goebbels was in favor of free speech for views he liked. So was Stalin. If you’re really in favor of free speech, then you’re in favor of freedom of speech for precisely the views you despise. Otherwise, you’re not in favor of free speech.",
+            "author": "Noam Chomsky"
+        },
+		{
+            "quote": "Jingoism, racism, fear, religious fundamentalism: these are the ways of appealing to people if you're trying to organize a mass base of support for policies that are really intended to crush them.",
+            "author": "Noam Chomsky"
+        },
+		{
+            "quote": "It is the responsibility of intellectuals to speak the truth and expose lies.",
+            "author": "Noam Chomsky"
+        },
+		{
+            "quote": "Hypocrites are those who apply to others the standards that they refuse to accept for themselves.",
+            "author": "Noam Chomsky"
+        },
+		{
+            "quote": "The world is a very puzzling place. If you're not willing to be puzzled, you just become a replica of someone else's mind.",
+            "author": "Noam Chomsky"
+        },
+		{
+            "quote": "The best defense against democracy is to distract people.",
+            "author": "Noam Chomsky"
+        },
+		{
+            "quote": "The indoctrination is so deep that educated people think they’re being objective.",
+            "author": "Noam Chomsky"
+        },
+		{
+            "quote": "He who controls the media controls the minds of the public.",
+            "author": "Noam Chomsky"
+        },
+		{
+            "quote": "Nobody is going to pour truth into your brain. It's something you have to find out for yourself.",
+            "author": "Noam Chomsky"
+        },
+		{
+            "quote": "Beyond the fiction of reality, there is the reality of the fiction.",
+            "author": "Slavoj Žižek"
+        },
+		{
+            "quote": "What if the way we perceive a problem is already part of the problem?",
+            "author": "Slavoj Žižek"
+        },
+		{
+            "quote": "We feel free because we lack the very language to articulate our unfreedom.",
+            "author": "Slavoj Žižek"
+        },
+		{
+            "quote": "Thinking begins when you ask really difficult questions.",
+            "author": "Slavoj Žižek"
+        },
+		{
+            "quote": "Humanity is OK, but 99% of people are boring idiots.",
+            "author": "Slavoj Žižek"
+        },
+		{
+            "quote": "The difference between a good life and a bad life is how well you walk through the fire",
+            "author": "Carl Jung"
+        },
+		{
+            "quote": "Who looks outside, dreams; who looks inside, awakes.",
+            "author": "Carl Jung"
+        },
+		{
+            "quote": "Everyone you meet knows something you don't know but need to know. Learn from them.",
+            "author": "Carl Jung"
+        },
+		{
+            "quote": "Everything that irritates us about others can lead us to an understanding of ourselves.",
+            "author": "Carl Jung"
+        },
+		{
+            "quote": "The foundation of all mental illness is the unwillingness to experience legitimate suffering.",
+            "author": "Carl Jung"
+        },
+		{
+            "quote": "We cannot change anything until we accept it. Condemnation does not liberate, it oppresses.",
+            "author": "Carl Jung"
+        },
+		{
+            "quote": "To ask the right question is already half the solution of a problem.",
+            "author": "Carl Jung"
+        },
+		{
+            "quote": "The world will ask you who you are, and if you don't know, the world will tell you.",
+            "author": "Carl Jung"
+        },
+		{
+            "quote": "Thinking is difficult, that’s why most people judge.",
+            "author": "Carl Jung"
+        },
+		{
+            "quote": "Do not compare, do not measure. No other way is like yours. All other ways deceive and tempt you. You must fulfill the way that is in you.",
+            "author": "Carl Jung"
+        },
+		{
+            "quote": "In order to know the light, we must first experience the darkness.",
+            "author": "Carl Jung"
+        },
+		{
+            "quote": "A little-known truth: Every aspect of the world is fundamentally unpredictable. Computer scientists have long since proved this.",
+            "author": "Rudy Rucker"
+        },
+		{
+            "quote": "The world is magic. Science is but an insipid style of sorcery.",
+            "author": "Rudy Rucker"
+        },
+		{
+            "quote": "I am, as it were, an eye that the cosmos uses to look at itself. The Mind is not mine alone; the Mind is everywhere.",
+            "author": "Rudy Rucker"
+        },
+		{
+            "quote": "Computations are everywhere, once you begin to look at things in a certain way.",
+            "author": "Rudy Rucker"
+        },
+		{
+            "quote": "Unfortunately our nation, nay, our world, is run by evil morons.",
+            "author": "Rudy Rucker"
+        },
+		{
+            "quote": "Before you diagnose yourself with depression or low self-esteem, first make sure that you are not, in fact, just surrounded by assholes.",
+            "author": "William Gibson"
+        },
+		{
+            "quote": "The future has already arrived. It's just not evenly distributed yet.",
+            "author": "William Gibson"
+        },
+		{
+            "quote": "When you want to know how things really work, study them when they're coming apart.",
+            "author": "William Gibson"
+        },
+		{
+            "quote": "Believe only half of what you see and nothing that you hear.",
+            "author": "Edgar Allan Poe"
+        },
+		{
+            "quote": "The scariest monsters are the ones that lurk within our souls.",
+            "author": "Edgar Allan Poe"
+        },
+		{
+            "quote": "There is no beauty without some strangeness",
+            "author": "Edgar Allan Poe"
+        },
+		{
+            "quote": "I became insane, with long intervals of horrible sanity.",
+            "author": "Edgar Allan Poe"
+        },
+		{
+            "quote": "A wise man hears one word and understands two.",
+            "author": "Edgar Allan Poe"
+        },
+		{
+            "quote": "I remained too much inside my head and ended up losing my mind.",
+            "author": "Edgar Allan Poe"
+        },
+		{
+            "quote": "Deep into that darkness peering, long I stood there, wondering, fearing, doubting, dreaming dreams no mortal ever dared to dream before.",
+            "author": "Edgar Allan Poe"
+        },
+		{
+            "quote": "We're part of the unfolding world, surfing the chaotic waves",
+            "author": "Rudy Rucker"
+        },
+		{
+            "quote": "Either God can do nothing to stop catastrophes like this, or he doesn't care to, or he doesn't exist. God is either impotent, evil, or imaginary. Take your pick, and choose wisely.",
+            "author": "Sam Harris"
+        },
+		{
+            "quote": "A puppet is free as long as he loves his strings.",
+            "author": "Sam Harris"
+        },
+		{
+            "quote": "Victory comes from finding opportunities in problems.",
+            "author": "Sun Tzu"
+        },
+		{
+            "quote": "It is more important to outhink your enemy, than to outfight him",
+            "author": "Sun Tzu"
+        },
+		{
+            "quote": "The opportunity of defeating the enemy is provided by the enemy himself.",
+            "author": "Sun Tzu"
+        },
+		{
+            "quote": "If you know the enemy and know yourself, you need not fear the result of a hundred battles.",
+            "author": "Sun Tzu"
+        },
+		{
+            "quote": "In the midst of chaos, there is also opportunity.",
+            "author": "Sun Tzu"
+        },
+		{
+            "quote": "The supreme art of war is to subdue the enemy without fighting.",
+            "author": "Sun Tzu"
+        },
+		{
+            "quote": "One need not destroy one's enemy. One need only destroy his willingness to engage.",
+            "author": "Sun Tzu"
+        },
+		{
+            "quote": "If you are strong, appear weak. But if you are weak, appear strong.",
+            "author": "Sun Tzu"
+        },
+		{
+            "quote": "The height of strategy, is to attack your opponent's strategy.",
+            "author": "Sun Tzu"
+        },
+		{
+            "quote": "There is no illusion great than fear.",
+            "author": "Laozi"
+        },
+		{
+            "quote": "The journey of a thousand miles begins with one step.",
+            "author": "Laozi"
+        },
+		{
+            "quote": "New beginnings are often disguised as painful endings.",
+            "author": "Laozi"
+        },
+		{
+            "quote": "Care about what other people think and you will always be their prisoner.",
+            "author": "Laozi"
+        },
+		{
+            "quote": "If you correct your mind the rest of your life will fall into place.",
+            "author": "Laozi"
+        },
+		{
+            "quote": "The undeserving maintain power by promoting hysteria.",
+            "author": "Frank Herbert"
+        },
+		{
+            "quote": "When I am weaker than you, I ask you for freedom because that is according to your principles; when I am stronger than you, I take away your freedom because that is according to my principles.",
+            "author": "Frank Herbert"
+        },
+		{
+            "quote": "All governments suffer a recurring problem: Power attracts pathological personalities.",
+            "author": "Frank Herbert"
+        },
+		{
+            "quote": "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.",
+            "author": "Frank Herbert"
+        },
+		{
+            "quote": "The greatest and most important problems of life cannot be solved. They can only be outgrown.",
+            "author": "Frank Herbert"
+        },
+		{
+            "quote": "The best contribution one can make to humanity is to improve oneself.",
+            "author": "Frank Herbert"
+        },
+		{
+            "quote": "If all those around you believe some particular thing, you will soon be tempted to share in that belief.",
+            "author": "Frank Herbert"
+        },
 		
 ];
