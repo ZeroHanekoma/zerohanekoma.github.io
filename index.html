@@ -1,54 +1,85 @@
+<!--Startpage by Tayumpee-->
+<!--facebook.com/yourwaterlord-->
 <!DOCTYPE html>
-<html lang="en-US">
-    <head>
-        <title>New Tab</title>
-        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-		<link rel="preconnect" href="https://fonts.googleapis.com">
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:400,300" />
-        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Product+Sans" />
-		<link href="https://fonts.googleapis.com/css2?family=Alef&display=swap" rel="stylesheet"> 
-        <link rel="stylesheet" type="text/css" href="css/style.css" />
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>お帰りなさい, ANON</title>
+		<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>	
         <script async type="text/javascript" src="js/quotes.js"></script>
         <script async type="text/javascript" src="js/script.js"></script>
-        <meta name="viewport" content="width=device-width, initial-scale=.75" />
         <noscript>Javascript is requred for this page to display properly, silly.</noscript>
-    </head>
-    <body onload="javascript:init();" id="body" style="opacity: 0;">
-        <div class="background"></div>
-        <div class="center-flex offset-25">
-            <div class="container" id="mainContainer">
-                <div class="greeting" id="headContainer">
-                    <label id="lblGreetings" />
-                </div>
+	</head>
+	<body onload="javascript:init();">
+		<div class="maincontainer">
+			<div class="bottomcontainer">
+				<div class="button" id="btn1" onclick = "show('main1');hide('main2');tog('btn1');toh('btn2');"></div>
+				<div class="button" id="btn2" onclick = "show('main2');hide('main1');tog('btn2');toh('btn1');"></div>
 
-                <div class="container" id="bodyContainer">
-
-					<div class="container container-search" id="searchContainer">
-                        <input
-                            tabindex="1"
-                            type="text"
-                            id="searchBar"
-                            onfocus="javascript:addClass('mainContainer','input-active');"
-                            onblur="javascript:removeClass('mainContainer','input-active')"
-                            onkeydown="javascript:handleQuery(event,this.value);"
-                        />
-                    </div>
-					<div class="container container-menu" id="menuContainer">
-                        <ul class="menu-category" id="categoryMenu"></ul>
-                    </div>
-                    <div id="dateContainer" class="widget align-right"></div>
-					
-                    <div id="quoteContainer" class="align-bottom">
-					<blockquote> 
-                        <p id="quotes"></p>
-					</blockquote>
+				<div class="marqueebar" id="marqueebar">
+					<marquee id="news1" class="marquee2"></marquee>
+				</div>
+				<div class="searchbar">
+					<form name="form1" action="http://google.com/search" target="_blank" method="get" >
+						<input type="text" autocomplete="off" placeholder="google search..." name="q" class="searchinput"></input>
+					</form>
+				</div>
+			</div>
+			<div class="time" id="time">
+			</div>
+			<div class="main" id="main1">
+				<div class="sidebar" style="background-image: url(img/m1.gif);"></div>
+				<div class="welcome">
+					<h1>お帰りなさい</h1>
+					<div class="greeting" id="headContainer">
+						<label id="lblGreetings" />
+					</div>
+					<div id="quoteContainer" class="align-bottom">
+						<blockquote> 
+							<p id="quoteBlock">"<em id="quotes"></em>"</p>
+						</blockquote>
                         <i>
                             <p id="author"></p>
                         </i>
-                    </div>				
-                </div>
-            </div>
-        </div>
-    </body>
+                    </div>	
+				</div>
+				<div class="bookmarkscontainer">
+					<ul>
+						<li><a href="http://4chan.org/wg/" class="clink" target="_blank">/wg/</a>
+						<li><a href="http://4chan.org/f/" class="clink" target="_blank">/f/</a>
+						<li><a href="http://neo-geo.com/forums/" class="clink" target="_blank">neogeo</a>
+						<li><a href="http://shmups.system11.org" class="clink" target="_blank">shmups</a>
+						<li><a href="http://darkumbra.net/forums/" class="clink" target="_blank">darkumbra</a>
+					</ul>
+					<ul>
+						<li><a href="http://facebook.com" class="clink" target="_blank">facebook</a>
+						<li><a href="http://gmail.com" class="clink" target="_blank">gmail</a>
+						<li><a href="http://tumblr.com" class="clink" target="_blank">tumblr</a>
+						<li><a href="http://youtube.com" class="clink" target="_blank">youtube</a>
+						<li><a href="http://soundcloud.com" class="clink" target="_blank">soundcloud</a>
+					</ul>
+					<ul>
+						<li><a href="http://store.steampowered.com" class="clink" target="_blank">steam</a>
+						<li><a href="http://gog.com" class="clink" target="_blank">gog</a>
+						<li><a href="http://humblebundle.com" class="clink" target="_blank">humblebundle</a>
+						<li><a href="http://hce.halomaps.org" class="clink" target="_blank">halomaps</a>
+					</ul>
+					<ul>
+						<li><a href="http://amazon.com" class="clink" target="_blank">amazon</a>
+						<li><a href="http://ebay.com" class="clink" target="_blank">ebay</a>
+						<li><a href="http://massdrop.com" class="clink" target="_blank">massdrop</a>
+						<li><a href="http://j-list.com" class="clink" target="_blank">j-list</a>
+						<li><a href="http://massdrop.com" class="clink" target="_blank">massdrop</a>
+						<li><a href="http://redbubble.com" class="clink" target="_blank">redbubble</a>
+					</ul>
+				</div>
+			</div>
+			<div class="main" id="main2" style="display:none">
+				<div class="sidebar" style="background-image: url(img/m2.gif);"></div>
+				<iframe width="100%" height="100%" src="https://www.youtube.com/embed/1I3YhzxZUKc" frameborder="0" allowfullscreen></iframe>			
+			</div>
+		</div>
+	</body>
 </html>
