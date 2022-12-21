@@ -14,9 +14,13 @@ const generateQuote = function() {
     //the quotes are pulled from quotes.js in the same folder.
 	//if it's not there this shit will break.
     let arrayIndex = Math.floor(Math.random() * quotes.length);
-    document.getElementById("quotes").innerHTML = quotes[arrayIndex].quote;
+    document.getElementById("quotes").innerHTML = "\"" + quotes[arrayIndex].quote + "\"";
     document.getElementById("author").innerHTML = "- " + quotes[arrayIndex].author;
 }
+
+
+//this script was moved out of index.html into this javascript file.
+//because i hate keeping scripts in my html files.
 
 //document.getElementById("main").innerHTML = Date();
 function updateClock() {

@@ -1,6 +1,12 @@
 <!--Startpage by Tayumpee-->
 <!--facebook.com/yourwaterlord-->
-<!DOCTYPE html>
+
+<!-- STOLEN AND REDESIGNED BY THE MAN, THE MYTH, THE LEGEND: .nvv 
+	THERE IS A LOT OF STRANGE JANK IN THE ORIGINAL STARTPAGE.
+	Been trying to clean it up, but I am a bad coder pls understand
+-->
+
+<!DOCTYPE html> <!--homeboy seriously forgot to declare !DOCTYPE html -->
 <html>
 	<head>
 		<meta charset="UTF-8" />
@@ -18,9 +24,6 @@
 				<div class="button" id="btn1" onclick = "show('main1');hide('main2');tog('btn1');toh('btn2');"></div>
 				<div class="button" id="btn2" onclick = "show('main2');hide('main1');tog('btn2');toh('btn1');"></div>
 
-				<div class="marqueebar" id="marqueebar">
-					<marquee id="news1" class="marquee2"></marquee>
-				</div>
 				<div class="searchbar">
 					<form name="form1" action="http://google.com/search" target="_blank" method="get" >
 						<input type="text" autocomplete="off" placeholder="google search..." name="q" class="searchinput"></input>
@@ -29,52 +32,62 @@
 			</div>
 			<div class="time" id="time">
 			</div>
-			<div class="main" id="main1">
-				<div class="sidebar" style="background-image: url(img/m1.gif);"></div>
+			<div class="head" id="head">
 				<div class="welcome">
 					<h1>お帰りなさい</h1>
-					<div class="greeting" id="headContainer">
-						<label id="lblGreetings" />
-					</div>
-					<div id="quoteContainer" class="align-bottom">
-						<blockquote> 
-							<p id="quoteBlock">"<em id="quotes"></em>"</p>
-						</blockquote>
-                        <i>
-                            <p id="author"></p>
-                        </i>
+					<div class="greeting">
+					<label id="lblGreetings" />
                     </div>	
 				</div>
-				<div class="bookmarkscontainer">
-					<ul>
-						<li><a href="http://4chan.org/wg/" class="clink" target="_blank">/wg/</a>
-						<li><a href="http://4chan.org/f/" class="clink" target="_blank">/f/</a>
-						<li><a href="http://neo-geo.com/forums/" class="clink" target="_blank">neogeo</a>
-						<li><a href="http://shmups.system11.org" class="clink" target="_blank">shmups</a>
-						<li><a href="http://darkumbra.net/forums/" class="clink" target="_blank">darkumbra</a>
-					</ul>
-					<ul>
-						<li><a href="http://facebook.com" class="clink" target="_blank">facebook</a>
-						<li><a href="http://gmail.com" class="clink" target="_blank">gmail</a>
-						<li><a href="http://tumblr.com" class="clink" target="_blank">tumblr</a>
-						<li><a href="http://youtube.com" class="clink" target="_blank">youtube</a>
-						<li><a href="http://soundcloud.com" class="clink" target="_blank">soundcloud</a>
-					</ul>
-					<ul>
-						<li><a href="http://store.steampowered.com" class="clink" target="_blank">steam</a>
-						<li><a href="http://gog.com" class="clink" target="_blank">gog</a>
-						<li><a href="http://humblebundle.com" class="clink" target="_blank">humblebundle</a>
-						<li><a href="http://hce.halomaps.org" class="clink" target="_blank">halomaps</a>
-					</ul>
-					<ul>
-						<li><a href="http://amazon.com" class="clink" target="_blank">amazon</a>
-						<li><a href="http://ebay.com" class="clink" target="_blank">ebay</a>
-						<li><a href="http://massdrop.com" class="clink" target="_blank">massdrop</a>
-						<li><a href="http://j-list.com" class="clink" target="_blank">j-list</a>
-						<li><a href="http://massdrop.com" class="clink" target="_blank">massdrop</a>
-						<li><a href="http://redbubble.com" class="clink" target="_blank">redbubble</a>
-					</ul>
+				<div id="quoteContainer" class="align-bottom">
+					<blockquote> 
+						<p id="quoteBlock"><em id="quotes"></em><br/>
+					</blockquote>
+					
+                    <i>
+						<em id="author"></em></p>
+					</i>
+			</div>
+			</div>
+			<div class="main" id="main1">
+				<div class="sidebar" style="background-image: url(img/m1.gif);"></div>
 				</div>
+					<div class="bookmarkscontainer">
+						<ul>
+							<li id="listTitle">4chan</li>
+							<li><a href="http://4chan.org/wg/" class="clink" target="_blank">/wg/</a>
+							<li><a href="http://4channel.org/w/" class="clink" target="_blank">/w/</a>
+							<li><a href="http://boards.4channel.org/v/" class="clink" target="_blank">/v/</a>
+							<li><a href="http://boards.4channel.org/g/" class="clink" target="_blank">/g/</a>
+							<li><a href="http://4channel.org/x/" class="clink" target="_blank">/x/</a>
+						</ul>
+						<ul>
+							<li id="listTitle">Social</li>
+							<li><a href="http://gmail.com" class="clink" target="_blank">gmail</a>
+							<li><a href="http://netflix.com" class="clink" target="_blank">netflix</a>
+							<li><a href="http://hulu.com" class="clink" target="_blank">hulu</a>
+							<li><a href="http://youtube.com" class="clink" target="_blank">youtube</a>
+							<li><a href="http://scryfall.com" class="clink" target="_blank">scryfall</a>
+						</ul>
+						<ul>
+							<li id="listTitle">Technology</li>
+							<li><a href="http://store.steampowered.com" class="clink" target="_blank">steam</a>
+							<li><a href="http://gog.com" class="clink" target="_blank">gog</a>
+							<li><a href="https://wiki.archlinux.org/" class="clink" target="_blank">arch wiki</a>
+							<li><a href="http://github.com" class="clink" target="_blank">git</a>
+							<li><a href="http://protondb.com" class="clink" target="_blank">protondb</a>
+						</ul>
+						<ul>
+							<li id="listTitle">Shopping</li>
+							<li><a href="http://amazon.com" class="clink" target="_blank">amazon</a>
+							<li><a href="http://ebay.com" class="clink" target="_blank">ebay</a>
+							<li><a href="http://j-list.com" class="clink" target="_blank">j-list</a>
+							<li><a href="http://tcgplayer.com" class="clink" target="_blank">tcg player</a>
+							<li><a href="http://redbubble.com" class="clink" target="_blank">redbubble</a>
+						</ul>
+					</div>
+			<div class="main" id="main2" style="display:none">
+				<div class="sidebar" style="background-image: url(img/m2.gif);"></div>		
 			</div>
 			<div class="main" id="main2" style="display:none">
 				<div class="sidebar" style="background-image: url(img/m2.gif);"></div>

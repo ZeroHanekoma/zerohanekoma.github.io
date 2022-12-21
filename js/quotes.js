@@ -18,7 +18,7 @@ retardedly easy this is to setup.
 
 
 const quotes = [
-        {
+         {
             "quote": "The Bible tells us to be like God, and then on page after page it describes God as a mass murderer. This may be the single most important key to the political behavior of Western Civilization.",
             "author": "Robert Anton Wilson"
         },
@@ -32,7 +32,7 @@ const quotes = [
         },
         {
             "quote": "Only the madman is absolutely sure.",
-            "author": "Robert Anton Wilson"
+            "author": "Robert Shea"
         },
         {
             "quote": "Human beings live in their myths. They only endure their realities.",
@@ -263,7 +263,7 @@ const quotes = [
             "author": "Eddie Izzard"
         },
 		{
-            "quote": "Nothing good will happen in my life, and I could see it as a blessing",
+            "quote": "Just take each step you’re able to manage, persevere little by little, and build it up that way.",
             "author": "Sugaru Miaki"
         },
 		{
@@ -860,47 +860,47 @@ const quotes = [
         },
 		{
             "quote": "The difference between a good life and a bad life is how well you walk through the fire",
-            "author": "Carl Jung"
+            "author": "Carl Gustav Jung"
         },
 		{
             "quote": "Who looks outside, dreams; who looks inside, awakes.",
-            "author": "Carl Jung"
+            "author": "Carl Gustav Jung"
         },
 		{
             "quote": "Everyone you meet knows something you don't know but need to know. Learn from them.",
-            "author": "Carl Jung"
+            "author": "Carl Gustav Jung"
         },
 		{
             "quote": "Everything that irritates us about others can lead us to an understanding of ourselves.",
-            "author": "Carl Jung"
+            "author": "Carl Gustav Jung"
         },
 		{
             "quote": "The foundation of all mental illness is the unwillingness to experience legitimate suffering.",
-            "author": "Carl Jung"
+            "author": "Carl Gustav Jung"
         },
 		{
             "quote": "We cannot change anything until we accept it. Condemnation does not liberate, it oppresses.",
-            "author": "Carl Jung"
+            "author": "Carl Gustav Jung"
         },
 		{
             "quote": "To ask the right question is already half the solution of a problem.",
-            "author": "Carl Jung"
+            "author": "Carl Gustav Jung"
         },
 		{
             "quote": "The world will ask you who you are, and if you don't know, the world will tell you.",
-            "author": "Carl Jung"
+            "author": "Carl Gustav Jung"
         },
 		{
             "quote": "Thinking is difficult, that’s why most people judge.",
-            "author": "Carl Jung"
+            "author": "Carl Gustav Jung"
         },
 		{
             "quote": "Do not compare, do not measure. No other way is like yours. All other ways deceive and tempt you. You must fulfill the way that is in you.",
-            "author": "Carl Jung"
+            "author": "Carl Gustav Jung"
         },
 		{
             "quote": "In order to know the light, we must first experience the darkness.",
-            "author": "Carl Jung"
+            "author": "Carl Gustav Jung"
         },
 		{
             "quote": "A little-known truth: Every aspect of the world is fundamentally unpredictable. Computer scientists have long since proved this.",
@@ -1012,23 +1012,23 @@ const quotes = [
         },
 		{
             "quote": "There is no illusion great than fear.",
-            "author": "Laozi"
+            "author": "Lao Tzu"
         },
 		{
             "quote": "The journey of a thousand miles begins with one step.",
-            "author": "Laozi"
+            "author": "Lao Tzu"
         },
 		{
             "quote": "New beginnings are often disguised as painful endings.",
-            "author": "Laozi"
+            "author": "Lao Tzu"
         },
 		{
             "quote": "Care about what other people think and you will always be their prisoner.",
-            "author": "Laozi"
+            "author": "Lao Tzu"
         },
 		{
             "quote": "If you correct your mind the rest of your life will fall into place.",
-            "author": "Laozi"
+            "author": "Lao Tzu"
         },
 		{
             "quote": "The undeserving maintain power by promoting hysteria.",
@@ -1046,7 +1046,7 @@ const quotes = [
             "quote": "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.",
             "author": "Frank Herbert"
         },
-		{
+ 		{
             "quote": "The greatest and most important problems of life cannot be solved. They can only be outgrown.",
             "author": "Frank Herbert"
         },
@@ -1057,6 +1057,241 @@ const quotes = [
 		{
             "quote": "If all those around you believe some particular thing, you will soon be tempted to share in that belief.",
             "author": "Frank Herbert"
+        },
+		{
+            "quote": "Beware he who would deny you access to information, for in his heart, he dreams himself your master.",
+            "author": "Commisioner Pravin Lal, Alpha Centauri"
+        },		
+		{
+            "quote": "Once a man has changed the relationship between himself and his environment, he cannot return to the blissful ignorance he left. Motion, of necessity, involves a change in perspective. ",
+            "author": "Commisioner Pravin Lal, Alpha Centauri"
+        },
+		{
+            "quote": "Heaven lasts long, and Earth abides. What is the secret of their durability? Is it because they do not live for themselves, that they endure so long? ",
+            "author": " Lao Tzu"
+        },
+		{
+            "quote": "We sit together,<br/>the mountain and I,<br/>until only the mountain remains ",
+            "author": "Li Po"
+        },
+		{
+            "quote": "Satan is so much more in earnest than we are--he buys up the opportunity while we are wondering how much it will cost.",
+            "author": "Amy Carmichael"
+        },
+		{
+            "quote": "Consequently, if you believe God made Satan, you must realize that all Satan's power comes from God and so that Satan is simply God's child, and that we are God's children also. There are no children of Satan, really.",
+            "author": "Anne Rice"
+        },
+		{
+            "quote": "Why should I not hate mine enemies―if I \"love\" them does that not place me at their mercy?.",
+            "author": "Anton Szandor LaVey"
+        },
+		{
+            "quote": "The real satanist is not quite so easily recognized as such.",
+            "author": "Anton Szandor LaVey"
+        },
+		{
+            "quote": "I break away from all conventions that do not lead to my earthly success and happiness.",
+            "author": "Anton Szandor LaVey"
+        },
+		{
+            "quote": "It is rather curious that the only time suicide is considered sinful by other religions is when it comes as an indulgence.",
+            "author": "Anton Szandor LaVey"
+        },
+		{
+            "quote": "Hey, could you smoke these joints for me? I need to go kill God...",
+            "author": "Anonymous"
+        },
+		{
+            "quote": "Simon sipped at his coffee. \"Everything in life is a hallucination,\" he said simply. \"Everything in death, too,\" he added. \"The universe is just putting us on. Handing us a line.",
+            "author": "Robert Shea"
+        },
+		{
+            "quote": "What had kept me bound to life thus for had been the shallow hope that something good might happen someday.",
+            "author": "Sugaru Miaki"
+        },
+		{
+            "quote": "Nothing good will happen in my life, and I could see it as a blessing",
+            "author": "Sugaru Miaki"
+        },
+		{
+            "quote": "No human beings, regardless of who they might be, want to look directly at their own shortcomings.",
+            "author": "Tatsuhiko Takimoto"
+        },
+		
+		{
+            "quote": "There weren't any villains though. The world was just complicated in various ways, and there weren't any obvious villains to be found. It was excruciating.",
+            "author": "Tatsuhiko Takimoto"
+        },
+		
+		{
+            "quote": "Frightened of my futureless life, scared by my foolish anxieties, unable to see ahead and aiming nowhere, I continued ceaselessly living my ridiculously idiotic life.",
+            "author": "Tatsuhiko Takimoto"
+        },
+		
+		{
+            "quote": "In actuality, there's nothing to do about a useless, recurring depression. A person could become disconsolate or angry. Even if they're enraged enough to punch something, they won't find a target. A huge organization... they wish that some huge, evil organization existed. That becomes our dream...",
+            "author": "Tatsuhiko Takimoto"
+        },
+		
+		{
+            "quote": "Being alone is best. I mean, it's true, isn't it? In the end you'll be absolutely alone; therefore, being alone is natural. If you accept that, nothing bad can happen. That's why I shut myself away in my six-mat one-room apartment.",
+            "author": "Tatsuhiko Takimoto"
+        },
+		
+		{
+            "quote": "Don't you understand? Listen carefully to what I'm saying. If you do, you'll get it. you can grasp this easily. In short...in short, I shut myself in because I'm lonely. Because I don't want to face any more loneliness, I shut myself away.",
+            "author": "Tatsuhiko Takimoto"
+        },
+		
+		{
+            "quote": "The true alchemists do not change lead into gold; they change the world into words.",
+            "author": "William H. Gass"
+        },
+		
+		{
+            "quote": "It's a cruel and random world, but the chaos is all so beautiful.",
+            "author": "Hiromu Arakawa"
+        },
+		
+		{
+            "quote": "Nothing's perfect, the world's not perfect. But it's there for us, trying the best it can; that's what makes it so damn beautiful.",
+            "author": "Hiromu Arakawa"
+        },
+		
+		{
+            "quote": "Even when our eyes are closed, there's a whole world that exists outside ourselves and our dreams.",
+            "author": "Hiromu Arakawa"
+        },
+		
+		{
+            "quote": "Enduring and forgiving are two different things. You must not forgive the cruelty of this world. It's our duty as human beings to be angry at injustice. But we must also endure it. Because someone must sever this chain of hatred.",
+            "author": "Hiromu Arakawa"
+        },
+		
+		{
+            "quote": "Stand up and walk. Move on. After all, you have perfect legs to stand on.",
+            "author": "Hiromu Arakawa"
+        },
+		
+		{
+            "quote": "I'm tired of this. It's like, just when I think our goal is within reach, it slips right through our fingers. It's happened time and again. Now, when we finally in our grasp, the truth slaps us in the face.",
+            "author": "Hiromu Arakawa"
+        },
+		
+		{
+            "quote": "There are many questions in this world that have no answers.",
+            "author": "Hiromu Arakawa"
+        },
+		
+		{
+            "quote": "But in the end one needs more courage to live than to kill himself.",
+            "author": "Albert Camus"
+        },
+		
+		{
+            "quote": "I am constantly torn between killing myself and killing everyone around me.",
+            "author": "David Levithan"
+        },
+		
+		{
+            "quote": "There comes a time when you look into the mirror and you realize that what you see is all that you will ever be. And then you accept it. Or you kill yourself. Or you stop looking in mirrors.",
+            "author": "J. Michael Straczynski"
+        },
+		
+		{
+            "quote": "The literal meaning of life is whatever you're doing that prevents you from killing yourself.",
+            "author": "Albert Camus"
+        },
+		
+		{
+            "quote": "By four o'clock, I've discounted suicide in favor of killing everyone else in the entire world instead.",
+            "author": "Warren Ellis"
+        },
+		
+		{
+            "quote": "If you believe that your thoughts originate inside your brain, do you also believe that television shows are made inside your television set?",
+            "author": "Warren Ellis"
+        },
+		
+		{
+            "quote": "I want a tattoo over my heart that reads TRY HARDER YOU LAZY PARAMEDIC SHITBAG OR I WILL HAUNT YOUR BEDROOM FOREVER",
+            "author": "Warren Ellis"
+        },
+		
+		{
+            "quote": "There's one hole in every revolution, large or small. And it's one word long— PEOPLE. No matter how big the idea they all stand under, people are small and weak and cheap and frightened. It's people that kill every revolution.",
+            "author": "Warren Ellis"
+        },
+		
+		{
+            "quote": "I was having a mildly paranoid day, mostly due to the fact that the mad priest lady from over the river had taken to nailing weasels to my front door again.",
+            "author": "Warren Ellis"
+        },
+		
+		{
+            "quote": "...You people don't know what the truth is! It's there, just under their bullshit, but you never look! That's what I hate most about this fucking city-- LIES ARE NEWS AND TRUTH IS OBSOLETE!",
+            "author": "Warren Ellis"
+        },
+		
+		{
+            "quote": "I'm sorry. Is that too harsh an observation for you? Does that sound too much like the Truth? Fuck you. If anyone in this shithole city gave two tugs of a dead dog's cock about Truth, this wouldn't be happening.",
+            "author": "Warren Ellis"
+        },
+		
+		{
+            "quote": "My favorite kind of humor is basically, if it was happening to you, it wouldn't be funny, but to observe it, it's hilarious.",
+            "author": "Bill Burr"
+        },
+		
+		{
+            "quote": "There is no reason to hit a woman. And I was just like, really? I could give you like 17 right off the top of my head.",
+            "author": "Bill Burr"
+        },
+		
+		{
+            "quote": "Only an adult with dying dreams can appreciate how awesome it is to have a dog.",
+            "author": "Bill Burr"
+        },
+		
+		{
+            "quote": "To me this is not yelling. I am not yelling. I’m just passionate about my opinions and I want to tell you all of them before you start talking again.",
+            "author": "Bill Burr"
+        },
+		
+		{
+            "quote": "Haven’t you noticed that every time the government f-ks up McDonald’s has a new sandwich?",
+            "author": "Bill Burr"
+        },
+		
+		{
+            "quote": "I'm cool with failing so long as I know that there are people around me that love me unconditionally.",
+            "author": "Dave Chappelle"
+        },
+		
+		{
+            "quote": "The hardest thing to do is to be true to yourself, especially when everybody is watching.",
+            "author": "Dave Chappelle"
+        },
+		
+		{
+            "quote": "You know you must be doing something right if old people like you.",
+            "author": "Dave Chappelle"
+        },
+		
+		{
+            "quote": "We are all in the perpetual quest for keeping oneself occupied, entertained, and important—which burns at the edge of addiction.",
+            "author": "Keiko Nobumoto"
+        },
+		
+		{
+            "quote": "I'm watching a dream I'll never wake up from.",
+            "author": "Keiko Nobumoto"
+        },
+		
+		{
+            "quote": "Angels banished from heaven have no choice but to become devils.",
+            "author": "Keiko Nobumoto"
         },
 		
 ];
