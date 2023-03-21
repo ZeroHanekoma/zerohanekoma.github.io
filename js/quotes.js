@@ -1293,5 +1293,185 @@ const quotes = [
             "quote": "Angels banished from heaven have no choice but to become devils.",
             "author": "Keiko Nobumoto"
         },
+		{
+            "quote": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+            "author": "Dr. Seuss"
+        },
+		{
+            "quote": "If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.",
+            "author": "J.K. Rowling"
+        },
+		{
+            "quote": "Friendship ... is born at the moment when one man says to another "What! You too? I thought that no one but myself . . .",
+            "author": "C.S. Lewis"
+        },
+		{
+            "quote": "A friend is someone who knows all about you and still loves you.",
+            "author": "Elbert Hubbard"
+        },
+		{
+            "quote": "Always forgive your enemies; nothing annoys them so much.",
+            "author": "Oscar Wilde"
+        },
+		{
+            "quote": "Friendship is unnecessary, like philosophy, like art.... It has no survival value; rather it is one of those things which give value to survival.",
+            "author": " C.S. Lewis"
+        },
+		{
+            "quote": "Fate is like a strange, unpopular restaurant filled with odd little waiters who bring you things you never asked for and don't always like.",
+            "author": "Lemony Snicket"
+        },
+		{
+            "quote": "Reading is one form of escape. Running for your life is another.",
+            "author": "Lemony Snicket"
+        },
+		{
+            "quote": "I suppose I'll have to add the force of gravity to my list of enemies.",
+            "author": "Lemony Snicket"
+        },
+		{
+            "quote": "It is one of life's bitterest truths that bedtime so often arrives just when things are really getting interesting.",
+            "author": "Lemony Snicket"
+        },
+		{
+            "quote": "It is difficult, when faced with a situation you cannot control, to admit you can do nothing.",
+            "author": "Lemony Snicket"
+        },
+		{
+            "quote": "If an optimist had his left arm chewed off by an alligator, he might say in a pleasant and hopeful voice, "Well this isn't too bad, I don't have a left arm anymore but at least nobody will ever ask me if I'm left-handed or right-handed," but most of us would say something more along the lines of, "Aaaaaa! My arm! My arm!",
+            "author": "Lemony Snicket"
+        },
+		{
+            "quote": "The world is quiet here.",
+            "author": "Lemony Snicket"
+        },
+		{
+            "quote": "Perhaps if we saw what was ahead of us, and glimpsed the follies, and misfortunes that would befall us later on, we would all stay in our mother's wombs, and then there would be nobody in the world but a great number of very fat, very irritated women.",
+            "author": "Lemony Snicket"
+        },
+		{
+            "quote": "It is very unnerving to be proven wrong, particularly when you are really right and the person who is really wrong is proving you wrong and proving himself, wrongly, right.",
+            "author": "Lemony Snicket"
+        },
+		{
+            "quote": "If we wait until we're ready, we'll be waiting for the rest of our lives.",
+            "author": "Lemony Snicket"
+        },
+		{
+            "quote": "Don't ever, ever try to lie to the internet - because they will catch you.",
+            "author": "Gabe Newell"
+        },
+		{
+            "quote": "Im a handsome man with a charming personality.",
+            "author": "Gabe Newell"
+        },
+		{
+            "quote": "There are some people you like immediately, some whom you think you might learn to like in the fullness of time, and some that you simply want to push away from you with a sharp stick.",
+            "author": "Douglas Adams"
+        },
+		{
+            "quote": "How can I be substantial if I do not cast a shadow? I must have a dark side also If I am to be whole.",
+            "author": " C.G. Jung"
+        },
+		{
+            "quote": "When a person tells you that you hurt them, you don’t get to decide that you didn’t.",
+            "author": "Louis C.K."
+        },
+		{
+            "quote": "Empathy is not gay.  Empathy is not black.  Empathy is bisexual.  It must go both ways.",
+            "author": "Dave Chapelle"
+        },
+		{
+            "quote": "The worst thing to call somebody is crazy, it's dismissive. 'But I don't understand this person', so they're crazy. That's bullshit cause people are not crazy, they strong people, maybe their environment is a little sick.",
+            "author": "Dave Chapelle"
+        },
+		{
+            "quote": "It is one of the blessings of old friends that you can afford to be stupid with them.",
+            "author": "Ralph Waldo Emerson"
+        },
+		{
+            "quote": "It is more shameful to distrust our friends than to be deceived by them.",
+            "author": "Confucius"
+        },
+		{
+            "quote": "For a friend with an understanding heart is worth no less than a brother",
+            "author": "Homer"
+        },
+		{
+            "quote": "it is a sad truth in life that when someone has lost a loved one, friends sometimes avoid the person, just when the presence of friends is most needed.",
+            "author": "Lemony Snicket"
+        },
+		{
+            "quote": "Things change. And friends leave. Life doesn't stop for anybody.",
+            "author": "Stephen Chbosky"
+        },
+		{
+            "quote": "There's nothing like deep breaths after laughing that hard. Nothing in the world like a sore stomach for the right reasons.",
+            "author": "Stephen Chbosky"
+        },
+		{
+            "quote": "I would die for you. But I won't live for you.",
+            "author": "Stephen Chbosky"
+        },
+		{
+            "quote": "It's strange because sometimes, I read a book, and I think I am the people in the book.",
+            "author": "Stephen Chbosky"
+        },
+		{
+            "quote": "I am both happy and sad at the same time, and I'm still trying to figure out how that could be.",
+            "author": "Stephen Chbosky"
+        },
+		{
+            "quote": "Sometimes people use thought to not participate in life.",
+            "author": "Stephen Chbosky"
+        },
+		{
+            "quote": "Downtown. Lights on buildings and everything that makes you wonder. And in that moment, I swear we were infinite.",
+            "author": "Stephen Chbosky"
+        },
+		{
+            "quote": "It’s much easier not to know things sometimes.",
+            "author": "Stephen Chbosky"
+        },
+		{
+            "quote": "So many things are possible just as long as you don't know they're impossible.",
+            "author": "Norton Juster"
+        },
+		{
+            "quote": "Expect everything, I always say, and the unexpected never happens.",
+            "author": "Norton Juster"
+        },
+		{
+            "quote": "The most important reason for going from one place to another is to see what's in between, and they took great pleasure in doing just that.",
+            "author": "Norton Juster"
+        },
+		{
+            "quote": "The only thing you can do easily is be wrong, and that's hardly worth the effort.",
+            "author": "Norton Juster"
+        },
+		{
+            "quote": "Everybody is so terribly sensitive about the things they know best.",
+            "author": "Norton Juster"
+        },
+		{
+            "quote": "You can swim all day in the Sea of Knowledge and not get wet.",
+            "author": "Norton Juster"
+        },
+		{
+            "quote": "Things which are equally bad are also equally good. Try to look at the bright side of things.",
+            "author": "Norton Juster"
+        },
+		{
+            "quote": "And remember, also," added the Princess of Sweet Rhyme, "that many places you would like to see are just off the map and many things you want to know are just out of sight or a little beyond your reach. But someday you'll reach them all, for what you learn today, for no reason at all, will help you discover all the wonderful secrets of tomorrow.",
+            "author": "Norton Juster"
+        },
+		{
+            "quote": "But I suppose there's a lot to see everywhere, if only you keep your eyes open.",
+            "author": "Norton Juster"
+        },
+		{
+            "quote": "In this city, we've got a saying: once is coincidence, twice is a booking offense!",
+            "author": "John Wagner"
+        },
 		
 ];
