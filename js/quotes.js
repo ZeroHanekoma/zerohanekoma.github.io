@@ -1302,7 +1302,7 @@ const quotes = [
             "author": "J.K. Rowling"
         },
 		{
-            "quote": "Friendship ... is born at the moment when one man says to another "What! You too? I thought that no one but myself . . .",
+            "quote": "Friendship ... is born at the moment when one man says to another \"What! You too? I thought that no one but myself . . .",
             "author": "C.S. Lewis"
         },
 		{
@@ -1338,7 +1338,7 @@ const quotes = [
             "author": "Lemony Snicket"
         },
 		{
-            "quote": "If an optimist had his left arm chewed off by an alligator, he might say in a pleasant and hopeful voice, "Well this isn't too bad, I don't have a left arm anymore but at least nobody will ever ask me if I'm left-handed or right-handed," but most of us would say something more along the lines of, "Aaaaaa! My arm! My arm!",
+            "quote": "If an optimist had his left arm chewed off by an alligator, he might say in a pleasant and hopeful voice, \"Well this isn't too bad, I don't have a left arm anymore but at least nobody will ever ask me if I'm left-handed or right-handed,\" but most of us would say something more along the lines of, \"Aaaaaa! My arm! My arm!",
             "author": "Lemony Snicket"
         },
 		{
@@ -1462,7 +1462,7 @@ const quotes = [
             "author": "Norton Juster"
         },
 		{
-            "quote": "And remember, also," added the Princess of Sweet Rhyme, "that many places you would like to see are just off the map and many things you want to know are just out of sight or a little beyond your reach. But someday you'll reach them all, for what you learn today, for no reason at all, will help you discover all the wonderful secrets of tomorrow.",
+            "quote": "And remember, also,\" added the Princess of Sweet Rhyme, \"that many places you would like to see are just off the map and many things you want to know are just out of sight or a little beyond your reach. But someday you'll reach them all, for what you learn today, for no reason at all, will help you discover all the wonderful secrets of tomorrow.",
             "author": "Norton Juster"
         },
 		{
